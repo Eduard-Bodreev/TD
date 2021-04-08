@@ -1,0 +1,2 @@
+C:\Users\79853\Desktop\TD project\Tower_Defense-master\x64\Debug\Tower_Defense.exe
+C:\Users\79853\Desktop\TD project\Tower_Defense-master\x64\Debug\Tower_Defense.pdb

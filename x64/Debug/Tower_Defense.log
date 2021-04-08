@@ -1,0 +1,40 @@
+﻿  main.cpp
+C:\Users\79853\Desktop\TD project\Tower_Defense-master\Gun.h(98,26): warning C4244: =: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79853\Desktop\TD project\Tower_Defense-master\Gun.h(99,26): warning C4244: =: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Monster.cpp
+C:\Users\79853\Desktop\TD project\Tower_Defense-master\Gun.h(98,26): warning C4244: =: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79853\Desktop\TD project\Tower_Defense-master\Gun.h(99,26): warning C4244: =: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Создание кода...
+  Tower_Defense.vcxproj -> C:\Users\79853\Desktop\TD project\Tower_Defense-master\x64\Debug\Tower_Defense.exe
